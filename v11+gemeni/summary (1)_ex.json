@@ -1,0 +1,85 @@
+{
+  "image": "/content/physics_lab_apparatus-7/valid/images/IMG_20250925_151720_2_jpg.rf.8b5404c9ec7c4f4b4d216bb09fcde173.jpg",
+  "detections": [
+    {
+      "index": 1,
+      "box": [
+        123,
+        150,
+        328,
+        477
+      ],
+      "yolo_label": "Vernier-Caliper",
+      "yolo_confidence": 0.881,
+      "gemini_label": "Vernier-Caliper",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "vernier caliper",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A Vernier-Caliper is a precision measuring instrument used to measure linear dimensions such as length, diameter, and depth with high accuracy. It consists of a main scale and a sliding Vernier scale, which allows for readings beyond the least count of the main scale. The difference between the main scale reading and the Vernier scale reading gives the fractional part of the measurement, leading to greater precision. We use it in physics labs to accurately measure the diameter of wires, the thickness of plates, or the internal/external diameters of tubes, crucial for experiments involving volume or cross-sectional area.",
+        "bangla": "একটি ভার্নিয়ার ক্যালিপার হলো একটি নির্ভুল পরিমাপ যন্ত্র যা দৈর্ঘ্য, ব্যাস এবং গভীরতার মতো রৈখিক পরিমাপগুলি উচ্চ নির্ভুলতার সাথে পরিমাপ করতে ব্যবহৃত হয়। এটি একটি মূল স্কেল এবং একটি স্লাইডিং ভার্নিয়ার স্কেল নিয়ে গঠিত, যা মূল স্কেলের ক্ষুদ্রতম গণনার চেয়েও সূক্ষ্ম পাঠ নিতে সাহায্য করে। মূল স্কেল পাঠ এবং ভার্নিয়ার স্কেল পাঠের মধ্যে পার্থক্য পরিমাপের ভগ্নাংশ অংশটি দেয়, যা বৃহত্তর নির্ভুলতার দিকে পরিচালিত করে। আমরা পদার্থবিদ্যা ল্যাবে তারের ব্যাস, প্লেটের পুরুত্ব, বা পাইপের অভ্যন্তরীণ/বাহ্যিক ব্যাস সঠিকভাবে পরিমাপ করতে এটি ব্যবহার করি, যা আয়তন বা প্রস্থচ্ছেদের ক্ষেত্রফল সম্পর্কিত পরীক্ষাগুলির জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+        "usage_note": "Ensure the jaws are clean and closed properly before setting the zero error. ➡️ শূন্য ত্রুটি সেট করার আগে নিশ্চিত করুন চোয়ালগুলি পরিষ্কার এবং সঠিকভাবে বন্ধ আছে।"
+      }
+    },
+    {
+      "index": 2,
+      "box": [
+        325,
+        80,
+        403,
+        210
+      ],
+      "yolo_label": "Helical-Extension-Spring",
+      "yolo_confidence": 0.816,
+      "gemini_label": "Helical-Extension-Spring",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "helical extension spring",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A helical extension spring is a mechanical device designed to absorb and store energy, and then release it, or to create a force between two objects. It works by stretching when a tensile load is applied, with the coils separating to accommodate the extension. We use helical extension springs in physics labs to study Hooke's Law, which states that the force needed to extend or compress a spring by some distance is proportional to that distance. They are also used to demonstrate concepts of elasticity, potential energy, and simple harmonic motion.",
+        "bangla": "একটি হেলিকাল এক্সটেনশন স্প্রিং হল একটি যান্ত্রিক যন্ত্র যা শক্তি শোষণ ও সঞ্চয় করে, তারপর তা মুক্ত করে, অথবা দুটি বস্তুর মধ্যে একটি বল তৈরি করে। এটি প্রসারিত হয় যখন একটি টানশীল লোড প্রয়োগ করা হয়, কুণ্ডলীগুলি প্রসারিত হওয়ার জন্য আলাদা হয়ে যায়। আমরা পদার্থবিদ্যা ল্যাবে হুকের সূত্র অধ্যয়নের জন্য হেলিকাল এক্সটেনশন স্প্রিং ব্যবহার করি, যা বলে যে একটি স্প্রিংকে নির্দিষ্ট দূরত্বে প্রসারিত বা সংকুচিত করার জন্য প্রয়োজনীয় বল সেই দূরত্বের সমানুপাতিক। এগুলি স্থিতিস্থাপকতা, স্থিতিশক্তি এবং সরল দোলগতি (simple harmonic motion)-এর ধারণাগুলি প্রদর্শনের জন্যও ব্যবহৃত হয়।",
+        "usage_note": "Ensure the spring is not stretched beyond its elastic limit to prevent permanent deformation. ➡️ স্থায়ী বিকৃতি রোধ করতে স্প্রিংটি যেন তার স্থিতিস্থাপক সীমা ছাড়িয়ে প্রসারিত না হয় তা নিশ্চিত করুন।"
+      }
+    },
+    {
+      "index": 3,
+      "box": [
+        259,
+        291,
+        358,
+        501
+      ],
+      "yolo_label": "Micrometer-Screw-Gauge",
+      "yolo_confidence": 0.763,
+      "gemini_label": "Micrometer-Screw-Gauge",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "micrometer screw gauge",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A Micrometer-Screw-Gauge is a precision instrument used to measure very small lengths, such as the diameter of a thin wire or the thickness of a sheet of paper. It works on the principle of a screw, converting small rotations of a thimble into precise linear displacements. The main scale (pitch scale) and the circular scale (head scale) provide readings, which are combined to give the exact measurement. It is extensively used in physics laboratories to determine the dimensions of small objects with high accuracy, typically up to 0.01 mm or 0.001 cm.",
+        "bangla": "একটি মাইক্রোমিটার স্ক্রু গেজ হল একটি নির্ভুল যন্ত্র যা খুব ছোট দৈর্ঘ্য, যেমন একটি পাতলা তারের ব্যাস বা একটি কাগজের শীটের পুরুত্ব পরিমাপ করতে ব্যবহৃত হয়। এটি একটি স্ক্রুর নীতির উপর কাজ করে, যেখানে থিম্বলের ছোট ঘূর্ণনগুলিকে সুনির্দিষ্ট রৈখিক স্থানান্তরে রূপান্তরিত করে। মূল স্কেল (পিচ স্কেল) এবং বৃত্তাকার স্কেল (হেড স্কেল) পাঠ প্রদান করে, যা একত্রিত করে সঠিক পরিমাপ পাওয়া যায়। এটি পদার্থবিদ্যা ল্যাবরেটরিতে ছোট বস্তুর মাত্রা অত্যন্ত নির্ভুলতার সাথে পরিমাপ করতে ব্যাপকভাবে ব্যবহৃত হয়, সাধারণত ০.০১ মিমি বা ০.০০১ সেমি পর্যন্ত।",
+        "usage_note": "Ensure the object is firmly but gently held between the anvil and spindle to get an accurate reading. ➡️ সঠিক পাঠ পেতে বস্তুটি অ্যানভিল এবং স্পিন্ডেলের মধ্যে দৃঢ়ভাবে তবে আলতো করে ধরে রাখুন।"
+      }
+    },
+    {
+      "index": 4,
+      "box": [
+        396,
+        264,
+        456,
+        357
+      ],
+      "yolo_label": "Lens",
+      "yolo_confidence": 0.752,
+      "gemini_label": "Lens",
+      "gemini_match_score": 0.849,
+      "gemini_matched_phrase": "lens",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A lens is a transmissive optical device that focuses or disperses a light beam by means of refraction. It is typically made of transparent materials like glass or plastic and has at least one curved surface. Lenses are primarily used to form images of objects, either real or virtual, by bending light rays. They are crucial in optical instruments like microscopes for magnifying tiny objects and telescopes for viewing distant objects. Lenses are also essential components in eyeglasses to correct vision problems and in cameras to focus light onto the sensor. Always handle lenses by their edges to avoid fingerprints and scratches on the optical surfaces.",
+        "bangla": "লেন্স হল একটি প্রতিসরাঙ্ক অপটিক্যাল যন্ত্র যা প্রতিসরণের মাধ্যমে আলোক রশ্মিকে কেন্দ্রীভূত বা ছড়িয়ে দেয়। এটি সাধারণত কাঁচ বা প্লাস্টিকের মতো স্বচ্ছ পদার্থ দিয়ে তৈরি এবং এর অন্তত একটি বাঁকানো পৃষ্ঠ থাকে। লেন্স প্রধানত আলোক রশ্মিকে বাঁকিয়ে বস্তুর প্রতিবিম্ব, যা বাস্তব বা অবাস্তব হতে পারে, তৈরি করতে ব্যবহৃত হয়। অণুবীক্ষণ যন্ত্রে ক্ষুদ্র বস্তুকে বিবর্ধিত করতে এবং দূরবীক্ষণ যন্ত্রে দূরবর্তী বস্তুকে দেখতে লেন্স অত্যন্ত গুরুত্বপূর্ণ। চশমায় দৃষ্টিশক্তির সমস্যা সংশোধন করতে এবং ক্যামেরায় সেন্সরে আলো ফোকাস করার জন্যও লেন্স অপরিহার্য উপাদান। লেন্সের অপটিক্যাল পৃষ্ঠে আঙুলের ছাপ এবং আঁচড় এড়াতে সবসময় এর ধার ধরে ব্যবহার করুন।",
+        "usage_note": ""
+      }
+    }
+  ]
+}

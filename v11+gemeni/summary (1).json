@@ -1,0 +1,65 @@
+{
+  "image": "/content/physics_lab_apparatus-7/test/images/IMG_20250925_142615_jpg.rf.d3559256d867f661c8044861cdc17fe9.jpg",
+  "detections": [
+    {
+      "index": 1,
+      "box": [
+        71,
+        62,
+        443,
+        322
+      ],
+      "yolo_label": "DC-Power-Supply",
+      "yolo_confidence": 0.905,
+      "gemini_label": "DC-Power-Supply",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "dc power supply",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A DC power supply provides a stable, constant voltage or current to an electrical circuit. Always set the voltage and current limits appropriately before connecting it to a circuit to avoid damaging components.",
+        "bangla": "একটি ডিসি পাওয়ার সাপ্লাই একটি বৈদ্যুতিক সার্কিটে একটি স্থিতিশীল, ধ্রুবক ভোল্টেজ বা কারেন্ট সরবরাহ করে। It converts AC mains power to a regulated DC output, often with adjustable voltage and current limits. ➡️ এটি AC মেইনস শক্তিকে একটি নিয়ন্ত্রিত ডিসি আউটপুটে রূপান্তরিত করে, যা প্রায়শই সামঞ্জস্যযোগ্য ভোল্টেজ এবং কারেন্ট সীমা সহ হয়। This instrument is crucial for powering various electronic components and circuits in experiments, ensuring they operate within their specified electrical parameters. ➡️ এটি বিভিন্ন ইলেকট্রনিক উপাদান এবং সার্কিটকে পরীক্ষায় শক্তি দিতে অত্যন্ত গুরুত্বপূর্ণ, যাতে তারা তাদের নির্দিষ্ট বৈদ্যুতিক প্যারামিটারের মধ্যে কাজ করে। We use it to provide the necessary direct current for testing, prototyping, and operating devices that require a steady DC source. ➡️ আমরা এটি পরীক্ষা, প্রোটোটাইপিং এবং এমন ডিভাইসগুলি পরিচালনা করার জন্য প্রয়োজনীয় প্রত্যক্ষ প্রবাহ সরবরাহ করতে ব্যবহার করি যেগুলির একটি স্থির ডিসি উৎসের প্রয়োজন। উপাদানগুলির ক্ষতি এড়াতে সার্কিটের সাথে সংযোগ করার আগে সর্বদা ভোল্টেজ এবং কারেন্টের সীমা সঠিকভাবে সেট করুন।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 2,
+      "box": [
+        332,
+        277,
+        474,
+        347
+      ],
+      "yolo_label": "Spherometer",
+      "yolo_confidence": 0.872,
+      "gemini_label": "Spherometer",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "spherometer",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A spherometer is used to measure the radius of curvature of spherical surfaces and the thickness of thin plates. It consists of a central screw with a finely graduated circular scale and three fixed legs forming an equilateral triangle. The instrument works on the principle of a micrometer screw, providing high precision in measuring small lengths. By measuring the sagitta (height) of the spherical cap and the distance between the legs, the radius of curvature can be calculated. It is indispensable in optics and other fields requiring precise measurement of curved surfaces. Ensure the spherometer is placed on a stable, flat surface before taking any readings.",
+        "bangla": "একটি স্ফেরোমিটার গোলাকার পৃষ্ঠের বক্রতার ব্যাসার্ধ এবং পাতলা প্লেটের পুরুত্ব পরিমাপ করতে ব্যবহৃত হয়। এটি একটি সূক্ষ্মভাবে চিহ্নিত বৃত্তাকার স্কেলযুক্ত একটি কেন্দ্রীয় স্ক্রু এবং একটি সমবাহু ত্রিভুজ গঠনকারী তিনটি স্থির পা নিয়ে গঠিত। যন্ত্রটি একটি মাইক্রোমিটার স্ক্রুর নীতির উপর কাজ করে, যা ছোট দৈর্ঘ্যের পরিমাপে উচ্চ নির্ভুলতা প্রদান করে। গোলাকার ক্যাপের স্যাজিটা (উচ্চতা) এবং পাগুলির মধ্যে দূরত্ব পরিমাপ করে বক্রতার ব্যাসার্ধ গণনা করা যেতে পারে। এটি অপটিক্স এবং অন্যান্য ক্ষেত্রে অত্যাবশ্যক যেখানে বক্র পৃষ্ঠের সঠিক পরিমাপ প্রয়োজন। কোনো পাঠ নেওয়ার আগে নিশ্চিত করুন যে স্ফেরোমিটার একটি স্থিতিশীল, সমতল পৃষ্ঠে স্থাপন করা হয়েছে।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 3,
+      "box": [
+        185,
+        351,
+        640,
+        467
+      ],
+      "yolo_label": "Vernier-Caliper",
+      "yolo_confidence": 0.854,
+      "gemini_label": "Vernier-Caliper",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "vernier caliper",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A Vernier-Caliper is a precision instrument used to measure linear dimensions such as length, diameter, and depth with high accuracy. It consists of a main scale and a sliding Vernier scale, which allows for measurements to be taken to the nearest 0.02 mm or 0.01 mm, depending on the instrument's least count. We use it in physics labs to measure the external and internal diameters of pipes, the diameter of spheres, or the depth of small holes, where a simple ruler would not be precise enough. The main scale gives the integral part of the measurement, and the Vernier scale helps to read the fractional part by finding the coinciding mark. Ensure the jaws are clean and closed properly to check for zero error before taking any measurement.",
+        "bangla": "একটি ভার্নিয়ার ক্যালিপার হলো একটি নির্ভুল যন্ত্র যা দৈর্ঘ্য, ব্যাস এবং গভীরতার মতো রৈখিক পরিমাপগুলো উচ্চ নির্ভুলতার সাথে পরিমাপ করতে ব্যবহৃত হয়। এটি একটি মূল স্কেল এবং একটি স্লাইডিং ভার্নিয়ার স্কেল নিয়ে গঠিত, যা যন্ত্রের লঘিষ্ঠ গণনার উপর নির্ভর করে ০.০২ মিমি বা ০.০১ মিমি পর্যন্ত পরিমাপ নিতে সাহায্য করে। আমরা পদার্থবিদ্যা ল্যাবে পাইপের বাইরের ও ভেতরের ব্যাস, গোলকের ব্যাস বা ছোট গর্তের গভীরতা পরিমাপ করতে এটি ব্যবহার করি, যেখানে একটি সাধারণ রুলার যথেষ্ট নির্ভুল হবে না। মূল স্কেল পরিমাপের পূর্ণ সংখ্যা অংশ দেয় এবং ভার্নিয়ার স্কেল সমাপতিত দাগ খুঁজে ভগ্নাংশ অংশটি পড়তে সাহায্য করে। কোনো পরিমাপ নেওয়ার আগে জিরো এরর (শূন্য ত্রুটি) পরীক্ষা করার জন্য নিশ্চিত করুন যে চোয়ালগুলো পরিষ্কার এবং সঠিকভাবে বন্ধ আছে।",
+        "usage_note": ""
+      }
+    }
+  ]
+}

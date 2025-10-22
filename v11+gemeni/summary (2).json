@@ -1,0 +1,145 @@
+{
+  "image": "/content/physics_lab_apparatus-7/test/images/IMG_20250925_152041_jpg.rf.e54e4be062922cfd1df81fabf6ac1834.jpg",
+  "detections": [
+    {
+      "index": 1,
+      "box": [
+        429,
+        385,
+        550,
+        484
+      ],
+      "yolo_label": "Micrometer-Screw-Gauge",
+      "yolo_confidence": 0.909,
+      "gemini_label": "Micrometer-Screw-Gauge",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "micrometer screw gauge",
+      "match_with": "yolo",
+      "llm": {
+        "english": "The micrometer-screw-gauge is a precision instrument used to measure very small lengths, such as the diameter of a wire or the thickness of a sheet, with high accuracy. It works on the principle of a screw, converting small rotations into even smaller linear displacements. By rotating the thimble, the spindle moves towards or away from the anvil, gripping the object to be measured. The main scale gives the coarse reading, while the circular scale provides the fractional part of the measurement, often to 0.01 mm or 0.001 inch. It is crucial in experiments requiring precise dimensional measurements, such as determining the density of materials or calculating cross-sectional areas. Always check for zero error before taking any measurement.",
+        "bangla": "মাইক্রোমিটার-স্ক্রু-গেজ একটি নির্ভুল যন্ত্র যা খুব ছোট দৈর্ঘ্য, যেমন তারের ব্যাস বা একটি পাতের পুরুত্ব, উচ্চ নির্ভুলতার সাথে পরিমাপ করতে ব্যবহৃত হয়। এটি একটি স্ক্রু-এর নীতির উপর কাজ করে, যেখানে ছোট ঘূর্ণনগুলিকে আরও ছোট রৈখিক স্থানান্তরে রূপান্তরিত করে। থিম্বল ঘোরানোর মাধ্যমে, স্পিন্ডেলটি অ্যানভিলের দিকে বা দূরে সরে যায় এবং পরিমাপ করার বস্তুকে ধরে। মূল স্কেল মোটা পরিমাপ দেয়, যখন বৃত্তাকার স্কেল পরিমাপের ভগ্নাংশ অংশ প্রদান করে, প্রায়শই 0.01 মিমি বা 0.001 ইঞ্চি পর্যন্ত। এটি নির্ভুল মাত্রিক পরিমাপ প্রয়োজন এমন পরীক্ষাগুলিতে অত্যন্ত গুরুত্বপূর্ণ, যেমন পদার্থের ঘনত্ব নির্ধারণ বা ক্রস-সেকশনাল ক্ষেত্রফল গণনা। কোনো পরিমাপ নেওয়ার আগে সর্বদা শূন্য ত্রুটি (zero error) পরীক্ষা করুন।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 2,
+      "box": [
+        404,
+        173,
+        543,
+        317
+      ],
+      "yolo_label": "DC-Ammeter",
+      "yolo_confidence": 0.904,
+      "gemini_label": "DC-Ammeter",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "dc ammeter",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A DC-Ammeter measures the electric current flowing in a direct current (DC) circuit. It works by deflecting a pointer or displaying a digital reading proportional to the current passing through it. We use it to determine the magnitude of current in a circuit, which is crucial for analyzing and troubleshooting electrical systems. It must always be connected in series with the component through which the current is to be measured. Always connect the DC-Ammeter in series in the circuit.",
+        "bangla": "একটি ডিসি-অ্যামিটার একটি ডাইরেক্ট কারেন্ট (DC) সার্কিটে প্রবাহিত বৈদ্যুতিক প্রবাহ পরিমাপ করে। এটি এটির মধ্য দিয়ে প্রবাহিত প্রবাহের অনুপাতে একটি পয়েন্টারকে বিচ্যুত করে বা একটি ডিজিটাল রিডিং প্রদর্শন করে কাজ করে। আমরা এটি একটি সার্কিটে প্রবাহের পরিমাণ নির্ধারণ করতে ব্যবহার করি, যা বৈদ্যুতিক সিস্টেম বিশ্লেষণ এবং সমস্যা সমাধানের জন্য অত্যন্ত গুরুত্বপূর্ণ। এটি সর্বদা সেই উপাদানের সাথে সিরিজে সংযুক্ত থাকতে হবে যার মধ্য দিয়ে প্রবাহ পরিমাপ করতে হবে। সার্কিটে ডিসি-অ্যামিটারকে সর্বদা সিরিজে সংযুক্ত করুন।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 3,
+      "box": [
+        261,
+        89,
+        378,
+        278
+      ],
+      "yolo_label": "DC-Ammeter",
+      "yolo_confidence": 0.901,
+      "gemini_label": "DC-Ammeter",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "dc ammeter",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A DC-Ammeter measures the magnitude of direct current (DC) flowing through a circuit. It works by being connected in series with the component whose current is to be measured, allowing the entire current to pass through it. The internal resistance of an ideal ammeter is very low to minimize its effect on the circuit. We use it to ensure proper current levels in electronic circuits and to study Ohm's Law and other circuit principles in the lab. Always connect the DC-Ammeter in series with the circuit component to measure current.",
+        "bangla": "একটি ডিসি-অ্যামিটার একটি বর্তনীর মধ্য দিয়ে প্রবাহিত প্রত্যক্ষ তড়িৎ প্রবাহ (ডিসি কারেন্ট) পরিমাপ করে। এটি যে উপাদানের তড়িৎ প্রবাহ পরিমাপ করতে হবে তার সাথে সিরিজে সংযুক্ত হয়ে কাজ করে, যাতে পুরো প্রবাহ এটির মধ্য দিয়ে যায়। একটি আদর্শ অ্যামিটারের অভ্যন্তরীণ রোধ খুব কম থাকে যাতে বর্তনীতে এর প্রভাব ন্যূনতম হয়। আমরা ইলেকট্রনিক বর্তনীতে সঠিক তড়িৎ প্রবাহের মাত্রা নিশ্চিত করতে এবং ল্যাবে ওহমের সূত্র ও অন্যান্য বর্তনী নীতি অধ্যয়ন করতে এটি ব্যবহার করি। তড়িৎ প্রবাহ পরিমাপের জন্য ডিসি-অ্যামিটার সর্বদা বর্তনীর উপাদানের সাথে সিরিজে সংযুক্ত করুন।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 4,
+      "box": [
+        239,
+        486,
+        481,
+        600
+      ],
+      "yolo_label": "Rubber-Mallet-Hammer",
+      "yolo_confidence": 0.9,
+      "gemini_label": "Rubber-Mallet-Hammer",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "rubber mallet hammer",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A rubber mallet hammer is a type of hammer that has a head made of rubber instead of metal. This design prevents damage to the surface of the object being struck, making it suitable for delicate materials or finishes. It works by distributing the impact force over a larger area with less rebound, allowing for gentle adjustments or secure fittings without marring. We use it in labs for assembling apparatus with glass components, fitting parts without damaging them, or gently tapping items into place.",
+        "bangla": "রাবার ম্যালেট হাতুড়ি এক ধরণের হাতুড়ি যার মাথা ধাতুর পরিবর্তে রাবার দিয়ে তৈরি। এই নকশাটি আঘাত করা বস্তুর পৃষ্ঠের ক্ষতি প্রতিরোধ করে, যা এটিকে সূক্ষ্ম উপকরণ বা ফিনিশের জন্য উপযুক্ত করে তোলে। এটি কম রিবাউন্ড সহ একটি বৃহত্তর এলাকায় প্রভাব শক্তি বিতরণ করে কাজ করে, যা পৃষ্ঠের ক্ষতি না করে মৃদু সামঞ্জস্য বা সুরক্ষিত ফিটিংয়ের জন্য সহায়ক। আমরা ল্যাবে কাচের উপাদান সহ সরঞ্জাম একত্রিত করতে, অংশগুলিকে ক্ষতি না করে সংযুক্ত করতে, বা আলতো করে জিনিসগুলিকে যথাস্থানে বসাতে এটি ব্যবহার করি।",
+        "usage_note": "Use the rubber mallet to gently tap the glass tubing into the stopper without breaking it. ➡️ কাঁচের নলটি না ভেঙে আলতো করে স্টপারে বসানোর জন্য রাবারের হাতুড়ি ব্যবহার করুন।"
+      }
+    },
+    {
+      "index": 5,
+      "box": [
+        353,
+        313,
+        406,
+        385
+      ],
+      "yolo_label": "Spherometer",
+      "yolo_confidence": 0.872,
+      "gemini_label": "Spherometer",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "spherometer",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A spherometer is an instrument used for the precise measurement of the radius of curvature of spherical surfaces or the thickness of thin plates. It consists of a central micrometer screw and three fixed outer legs, forming an equilateral triangle. The micrometer screw moves up or down, and its vertical displacement can be read from a main scale and a circular (pitch) scale. By measuring the height difference between a flat surface and the curved surface, and knowing the distance between the legs, the radius of curvature can be calculated using a specific formula. This instrument is crucial in optics for manufacturing lenses and mirrors, and in general physics labs for precise surface measurements. Always ensure the spherometer is placed on a stable, flat surface before taking any readings.",
+        "bangla": "একটি স্ফেরোমিটার গোলাকার পৃষ্ঠের বক্রতার ব্যাসার্ধ বা পাতলা পাতের পুরুত্ব সুনির্দিষ্টভাবে পরিমাপ করার জন্য ব্যবহৃত একটি যন্ত্র। এটি একটি কেন্দ্রীয় মাইক্রোমিটার স্ক্রু এবং তিনটি স্থির বাইরের পা নিয়ে গঠিত যা একটি সমবাহু ত্রিভুজ তৈরি করে। মাইক্রোমিটার স্ক্রু উপরে বা নিচে চলে, এবং এর উল্লম্ব সরণ একটি প্রধান স্কেল এবং একটি বৃত্তাকার (পিচ) স্কেল থেকে পড়া যায়। একটি সমতল পৃষ্ঠ এবং বক্র পৃষ্ঠের মধ্যে উচ্চতার পার্থক্য পরিমাপ করে এবং পাগুলির মধ্যে দূরত্ব জেনে, একটি নির্দিষ্ট সূত্র ব্যবহার করে বক্রতার ব্যাসার্ধ গণনা করা যেতে পারে। লেন্স এবং আয়না তৈরিতে এবং সাধারণ পদার্থবিদ্যা ল্যাবে সঠিক পৃষ্ঠ পরিমাপের জন্য এই যন্ত্রটি আলোকবিজ্ঞানে অত্যন্ত গুরুত্বপূর্ণ। কোনো রিডিং নেওয়ার আগে সর্বদা নিশ্চিত করুন যে স্ফেরোমিটারটি একটি স্থিতিশীল, সমতল পৃষ্ঠে রাখা হয়েছে।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 6,
+      "box": [
+        67,
+        287,
+        283,
+        364
+      ],
+      "yolo_label": "Stopwatch",
+      "yolo_confidence": 0.846,
+      "gemini_label": "Stopwatch",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "stopwatch",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A stopwatch is a timepiece designed to measure the amount of time that elapses between its activation and deactivation. Press the start button to begin timing and the stop button to end it.",
+        "bangla": "একটি স্টপওয়াচ হলো একটি সময় পরিমাপক যন্ত্র যা চালু ও বন্ধ করার মধ্যবর্তী সময়কাল পরিমাপ করার জন্য তৈরি করা হয়েছে। It typically features start/stop and reset buttons for precise control. ➡️ এটি সাধারণত নির্ভুল নিয়ন্ত্রণের জন্য স্টার্ট/স্টপ এবং রিসেট বোতাম দিয়ে থাকে। We use it in physics labs to accurately measure time intervals for experiments, such as pendulum oscillations, free fall, or reaction times. ➡️ পদার্থবিদ্যা ল্যাবে আমরা দোলকের দোলন, মুক্ত পতন বা প্রতিক্রিয়া সময়ের মতো পরীক্ষার জন্য সময় ব্যবধান সঠিকভাবে পরিমাপ করতে এটি ব্যবহার করি। Its primary purpose is to provide an exact measurement of elapsed time, crucial for calculating speed, acceleration, or frequency. ➡️ এর প্রধান উদ্দেশ্য হলো অতিবাহিত সময়ের একটি সঠিক পরিমাপ প্রদান করা, যা গতি, ত্বরণ বা কম্পাঙ্ক গণনার জন্য অত্যন্ত গুরুত্বপূর্ণ। সময় গণনা শুরু করতে স্টার্ট বোতাম এবং শেষ করতে স্টপ বোতাম চাপুন।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 7,
+      "box": [
+        539,
+        286,
+        580,
+        343
+      ],
+      "yolo_label": "Lens",
+      "yolo_confidence": 0.793,
+      "gemini_label": "Lens",
+      "gemini_match_score": 0.849,
+      "gemini_matched_phrase": "lens",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A lens is an optical device that transmits and refracts light, converging or diverging the light beam. It works on the principle of refraction, where light rays bend as they pass through the curved surfaces of the lens. We use lenses in physics labs for experiments involving optics, such as studying image formation, focal length determination, and the construction of optical instruments. Lenses are crucial for understanding how vision works and for designing devices like telescopes and microscopes. Always handle lenses by their edges to avoid fingerprints on the optical surfaces.",
+        "bangla": "লেন্স হলো একটি আলোকীয় যন্ত্র যা আলো প্রেরণ ও প্রতিসরণ করে, আলোর রশ্মিকে একত্রিত বা প্রসারিত করে। এটি প্রতিসরণের নীতির উপর কাজ করে, যেখানে আলোর রশ্মি লেন্সের বাঁকা পৃষ্ঠের মধ্য দিয়ে যাওয়ার সময় বেঁকে যায়। আমরা পদার্থবিদ্যা ল্যাবে লেন্স ব্যবহার করি অপটিক্স-সম্পর্কিত পরীক্ষার জন্য, যেমন প্রতিবিম্ব গঠন, ফোকাস দৈর্ঘ্য নির্ণয় এবং আলোকীয় যন্ত্র নির্মাণ অধ্যয়ন করার জন্য। লেন্সগুলি দৃষ্টিশক্তি কীভাবে কাজ করে তা বোঝার জন্য এবং টেলিস্কোপ ও মাইক্রোস্কোপের মতো যন্ত্র ডিজাইন করার জন্য অত্যন্ত গুরুত্বপূর্ণ। আলোক পৃষ্ঠগুলিতে আঙুলের ছাপ এড়াতে সর্বদা লেন্সগুলি তাদের প্রান্ত ধরে ধরুন।",
+        "usage_note": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "image": "/content/physics_lab_apparatus-7/test/images/IMG_20250925_151735_1_jpg.rf.ebf50bf8effc630f8cef525d59a320fb.jpg",
+  "detections": [
+    {
+      "index": 1,
+      "box": [
+        69,
+        123,
+        202,
+        310
+      ],
+      "yolo_label": "Weight-carrier",
+      "yolo_confidence": 0.889,
+      "gemini_label": "Weight-carrier",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "weight carrier",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A weight-carrier is a simple apparatus designed to hold and apply known weights in experiments. It typically consists of a pan or platform with a hook, allowing it to be suspended or attached to other equipment. We use it primarily in mechanics experiments to demonstrate concepts like force, equilibrium, and Hooke's Law. By adding or removing standard weights, the applied force can be systematically varied and studied. Always ensure the weight-carrier is balanced before adding weights.",
+        "bangla": "একটি ওজন-ক্যারিয়ার হলো একটি সরল যন্ত্র যা পরীক্ষায় নির্দিষ্ট ওজন ধরে রাখতে এবং প্রয়োগ করতে ব্যবহৃত হয়। এটি সাধারণত একটি প্যান বা প্ল্যাটফর্ম নিয়ে গঠিত যার সাথে একটি হুক থাকে, যা এটিকে ঝুলিয়ে রাখতে বা অন্যান্য সরঞ্জামের সাথে সংযুক্ত করতে দেয়। আমরা এটি প্রধানত বল, ভারসাম্য এবং হুকের সূত্র (Hooke's Law) এর মতো ধারণাগুলি প্রদর্শনের জন্য মেকানিক্সের পরীক্ষায় ব্যবহার করি। স্ট্যান্ডার্ড ওজন যোগ বা অপসারণ করে, প্রয়োগকৃত বলকে নিয়মতান্ত্রিকভাবে পরিবর্তন ও অধ্যয়ন করা যেতে পারে। ওজন যোগ করার আগে সবসময় নিশ্চিত করুন যে ওজন-ক্যারিয়ারটি সুষম অবস্থায় আছে।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 2,
+      "box": [
+        134,
+        307,
+        254,
+        419
+      ],
+      "yolo_label": "Helical-Extension-Spring",
+      "yolo_confidence": 0.879,
+      "gemini_label": "Helical-Extension-Spring",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "helical extension spring",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A helical-extension-spring is a mechanical device designed to store energy when stretched. Always ensure the spring is within its elastic limit to get accurate Hooke's Law measurements.",
+        "bangla": "একটি হেলিকেল-এক্সটেনশন-স্প্রিং হল একটি যান্ত্রিক যন্ত্র যা প্রসারিত হলে শক্তি সঞ্চয় করার জন্য ডিজাইন করা হয়েছে। It works by converting the applied force into potential energy, causing the coils to separate. ➡️ এটি প্রয়োগ করা শক্তিকে সম্ভাব্য শক্তিতে রূপান্তরিত করে কাজ করে, যার ফলে কয়েলগুলি আলাদা হয়ে যায়। We use it in physics experiments to study Hooke's Law, which states that the extension of a spring is directly proportional to the force applied to it, within its elastic limit. ➡️ আমরা পদার্থবিদ্যার পরীক্ষাগুলিতে হুকের সূত্র অধ্যয়ন করার জন্য এটি ব্যবহার করি, যা বলে যে একটি স্প্রিংয়ের প্রসারণ তার স্থিতিস্থাপক সীমার মধ্যে প্রয়োগ করা বলের সরাসরি সমানুপাতিক। It is also used to demonstrate simple harmonic motion and to measure forces or masses. ➡️ এটি সরল হারমোনিক গতি প্রদর্শন এবং বল বা ভর পরিমাপ করতেও ব্যবহৃত হয়। হুকের সূত্র অনুযায়ী সঠিক পরিমাপ পেতে সবসময় নিশ্চিত করুন যে স্প্রিংটি তার স্থিতিস্থাপক সীমার মধ্যে আছে।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 3,
+      "box": [
+        251,
+        353,
+        631,
+        448
+      ],
+      "yolo_label": "Vernier-Caliper",
+      "yolo_confidence": 0.871,
+      "gemini_label": "Vernier-Caliper",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "vernier caliper",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A Vernier Caliper is a precision measuring instrument used to measure linear dimensions such as length, depth, and diameter very accurately. It consists of a main scale and a sliding Vernier scale, allowing it to measure with greater precision than a simple ruler. The difference between the smallest division on the main scale and the smallest division on the Vernier scale gives its least count, enabling measurements down to 0.02 mm or 0.001 inches. We use it in physics labs to measure the external and internal diameters of cylinders, the depth of holes, or the thickness of thin sheets.",
+        "bangla": "একটি ভার্নিয়ার ক্যালিপার একটি নির্ভুল পরিমাপ যন্ত্র যা দৈর্ঘ্য, গভীরতা এবং ব্যাসের মতো রৈখিক মাত্রাগুলি খুব সঠিকভাবে পরিমাপ করতে ব্যবহৃত হয়। এটি একটি প্রধান স্কেল এবং একটি স্লাইডিং ভার্নিয়ার স্কেল নিয়ে গঠিত, যা একটি সাধারণ রুলারের চেয়ে বেশি নির্ভুলতার সাথে পরিমাপ করতে সক্ষম করে। প্রধান স্কেলের ক্ষুদ্রতম বিভাগ এবং ভার্নিয়ার স্কেলের ক্ষুদ্রতম বিভাগের মধ্যে পার্থক্যটি এর লঘিষ্ঠ গণনা (least count) দেয়, যা 0.02 মিমি বা 0.001 ইঞ্চি পর্যন্ত পরিমাপের সুবিধা দেয়। পদার্থবিদ্যা ল্যাবে আমরা এটি সিলিন্ডারের বাইরের ও ভিতরের ব্যাস, ছিদ্রের গভীরতা বা পাতলা শীটের পুরুত্ব পরিমাপ করতে ব্যবহার করি।",
+        "usage_note": "Ensure the jaws are clean and the zero error is checked before taking any measurement. ➡️ কোনো পরিমাপ নেওয়ার আগে চোয়াল পরিষ্কার এবং শূন্য ত্রুটি (zero error) পরীক্ষা করা নিশ্চিত করুন।"
+      }
+    },
+    {
+      "index": 4,
+      "box": [
+        222,
+        225,
+        318,
+        280
+      ],
+      "yolo_label": "Lens",
+      "yolo_confidence": 0.854,
+      "gemini_label": "Lens",
+      "gemini_match_score": 0.849,
+      "gemini_matched_phrase": "lens",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A lens is a transparent optical device that refracts light, meaning it bends light rays as they pass through it. Lenses are typically made from glass or plastic and have at least one curved surface. They are primarily used to focus or disperse light, which allows them to form images. In physics, lenses are crucial for understanding concepts like refraction, focal length, and image formation, and are fundamental components of optical instruments. We use lenses in experiments to study magnification, aberration, and to construct telescopes, microscopes, and cameras. Always handle lenses by their edges to avoid fingerprints on the optical surface.",
+        "bangla": "লেন্স হল একটি স্বচ্ছ আলোকীয় যন্ত্র যা আলোর প্রতিসরণ ঘটায়, অর্থাৎ এটি তার মধ্য দিয়ে যাওয়ার সময় আলোর রশ্মিগুলিকে বাঁকিয়ে দেয়। লেন্স সাধারণত কাঁচ বা প্লাস্টিক দিয়ে তৈরি হয় এবং এর অন্তত একটি বাঁকা পৃষ্ঠ থাকে। এগুলি মূলত আলোকে কেন্দ্রীভূত বা ছড়িয়ে দিতে ব্যবহৃত হয়, যা তাদের চিত্র তৈরি করতে সাহায্য করে। পদার্থবিজ্ঞানে, লেন্স প্রতিসরণ, ফোকাস দৈর্ঘ্য এবং চিত্র গঠন বোঝার জন্য অত্যন্ত গুরুত্বপূর্ণ, এবং আলোক যন্ত্রের মৌলিক উপাদান। আমরা বিবর্ধন, অপেরণ অধ্যয়ন করতে এবং দূরবীন, অণুবীক্ষণ যন্ত্র ও ক্যামেরা তৈরি করতে লেন্স ব্যবহার করি। আলোকীয় পৃষ্ঠে আঙুলের ছাপ এড়াতে সর্বদা লেন্স তার প্রান্ত দিয়ে ধরুন।",
+        "usage_note": ""
+      }
+    },
+    {
+      "index": 5,
+      "box": [
+        328,
+        271,
+        560,
+        347
+      ],
+      "yolo_label": "Micrometer-Screw-Gauge",
+      "yolo_confidence": 0.85,
+      "gemini_label": "Micrometer-Screw-Gauge",
+      "gemini_match_score": 1.0,
+      "gemini_matched_phrase": "micrometer screw gauge",
+      "match_with": "yolo",
+      "llm": {
+        "english": "A micrometer-screw-gauge is a precision instrument used to measure very small lengths, such as the diameter of a wire or the thickness of a sheet, with high accuracy. It works on the principle of a screw, converting small rotations of a calibrated screw into precise linear movements. The main scale (pitch scale) and circular scale (thimble scale) help in taking readings by combining the main scale reading with the circular scale reading multiplied by its least count. We use it in physics experiments and engineering applications where extreme precision in measuring dimensions is critical. Its ability to measure lengths up to 0.01 mm or even 0.001 mm makes it indispensable for tasks requiring fine measurements.",
+        "bangla": "মাইক্রোমিটার-স্ক্রু-গেজ একটি নির্ভুল যন্ত্র যা তারের ব্যাস বা শীটের পুরুত্বের মতো খুব ছোট দৈর্ঘ্য উচ্চ নির্ভুলতার সাথে পরিমাপ করতে ব্যবহৃত হয়। এটি একটি স্ক্রু-এর নীতিতে কাজ করে, যেখানে একটি ক্রমাঙ্কিত স্ক্রু-এর ছোট ঘূর্ণনগুলিকে সুনির্দিষ্ট রৈখিক গতিতে রূপান্তরিত করা হয়। প্রধান স্কেল (পিচ স্কেল) এবং বৃত্তাকার স্কেল (থিম্বল স্কেল) প্রধান স্কেলের পাঠের সাথে বৃত্তাকার স্কেলের পাঠকে তার লঘিষ্ঠ গণনার (least count) সাথে গুণ করে পাঠ নিতে সহায়তা করে। আমরা এটিকে পদার্থবিজ্ঞানের পরীক্ষা এবং প্রকৌশল অ্যাপ্লিকেশনে ব্যবহার করি যেখানে মাত্রার পরিমাপে চরম নির্ভুলতা অত্যন্ত গুরুত্বপূর্ণ। ০.০১ মিমি বা এমনকি ০.০০১ মিমি পর্যন্ত দৈর্ঘ্য পরিমাপ করার ক্ষমতা এটিকে সূক্ষ্ম পরিমাপের জন্য অপরিহার্য করে তোলে।",
+        "usage_note": "Ensure the instrument's zero error is accounted for before taking any measurement. ➡️ কোনো পরিমাপ নেওয়ার আগে যন্ত্রটির শূন্য ত্রুটি (zero error) বিবেচনা করা হয়েছে তা নিশ্চিত করুন।"
+      }
+    }
+  ]
+}
