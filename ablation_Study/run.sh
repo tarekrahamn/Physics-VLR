@@ -4,4 +4,4 @@ python ablation_Study.py \
   --gt_csv "/path/to/image_discription.csv" \
   --yolo_weights "/path/to/best.pt" \
   --configs full no_yolo yolo_only \
-  --max_samples 60
+  --max_samples 300
