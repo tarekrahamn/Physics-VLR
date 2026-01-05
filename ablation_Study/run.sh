@@ -1,3 +1,5 @@
+export GEMINI_API_KEY="YOUR_KEY"
+
 python ablation_physisensevlr.py \
   --images_dir /path/to/test/images \
   --gt_csv /path/to/image_description.csv \
